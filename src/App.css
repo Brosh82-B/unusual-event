@@ -6,9 +6,8 @@
 
 .main {
   flex-grow: 1;
-  background-color: #9EABCB;
+  background-color: #512c12;
   text-align: center;
   padding: 3vh 5vw 3vh 5vw;
   display: flex;
-
 }
